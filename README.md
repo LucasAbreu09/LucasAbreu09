@@ -23,4 +23,4 @@
     <a href = "href=tel:+5534992252822"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
   
-  ![Snake animation](https://github.com/LucasAbreu09/LucasAbreu09/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasAbreu09/LucasAbreu09/blob/main/.github/workflows/cobrinha.yml)
