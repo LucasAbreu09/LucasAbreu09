@@ -2,7 +2,7 @@
 ## Desenvolvedor | Front-end 
 
 - 🔭 Estou a procura de emprego 
-- 🌱 Estudando atualmente html, css javaScript
+- 🌱 Estudando atualmente html, css javaScript 
 
 <div align="center">
   <a href="https://github.com/LucasAbreu09">
@@ -15,6 +15,7 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Jquey" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg">
+  <img align="center" alt="lucas-SASS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg">
 </div> 
   
   ##
